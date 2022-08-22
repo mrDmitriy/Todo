@@ -1,0 +1,17 @@
+.todo-list-item {
+    display:flex;
+    justify-content: space-between;
+}
+
+.text-for_list{
+    padding-top: 5px;
+}
+
+.todo-list-item.done .todo-list-item-label {
+    text-decoration: line-through;
+}
+
+.todo-list-item.important .todo-list-item-label {
+    font-weight: bold;
+    color: steelblue;
+}

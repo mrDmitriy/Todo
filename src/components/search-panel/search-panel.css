@@ -1,0 +1,9 @@
+.searchpanel {
+    display:flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+
+.input_for_search {
+    min-width: 220px;
+}

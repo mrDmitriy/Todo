@@ -1,0 +1,8 @@
+.size_main_block{
+    min-width: 400px;
+}
+
+.searchpanel {
+    display:flex;
+    justify-content: space-between;
+}

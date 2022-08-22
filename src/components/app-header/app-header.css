@@ -1,0 +1,9 @@
+.head_block {
+    display:flex;
+    justify-content: space-between;
+}
+
+.text_head_block {
+    color: grey;
+    padding-top: 25px;
+}
